@@ -33,16 +33,18 @@ mostrará en la página.
 
 -- ToDo
 
-- [ ]Inicializar el readme del prpoyecto, indicando el ToDo con la lista de las acciones a llevar a acabo inicialmente.
-- [ ] Diseñar la interfase grafica del desafio, en figma
-- [ ] Crear elñ sistema de archivos del proyecto
-  - [ ]Crear un documento html de nombre index.html, el cual contiene el sistema de etiquetas que son la estructura de
+- [ok]Inicializar el readme del proyecto, indicando el ToDo con la lista de las acciones a llevar a acabo inicialmente.
+- [ok] Crear el sistema de archivos del proyecto
+  - [ok]Crear un documento html de nombre index.html, el cual contiene el sistema de etiquetas que son la estructura de
        la interfase
-  - [ ]Craer la carpeta de assets, que contendrá las carpetas de:
-    - [ ]Imagenes contendra las imagenes del proyecto, con nombre: img
-    - [ ]JavaScript contendra los archivos js necesarios para la logica, con nombre: js
-    - [ ]CSS contendra las hojas de estilos necesarias, con nombre: css
+  - [ok]Craer la carpeta de assets, que contendrá las carpetas de:
+    - [ok]Imagenes contendra las imagenes del proyecto, con nombre: img
+    - [ok]JavaScript contendra los archivos js necesarios para la logica, con nombre: js
+      - [ok]Agregar un archivo app.js, que contendra la logica de programacion
+    - [ok]CSS contendra las hojas de estilos necesarias, con nombre: css
+      - [ok]Agregar dos archivos css, uno sera style.css y el otro sera el reset.css
+- [ ] Diseñar la interfase grafica del desafio, en figma
 - [ ] Maquetar el html de acuerdo al diseño en figma.
-- [ ] Nombrar las clases y Ids conla metodologia BEM en el html, para los estilos y los llamados de la logica de
-  programacion en js.
+  - [ ] Nombrar las clases y Ids con la metodologia BEM en el html, para los estilos y los llamados de la logica de
+        programacion en js.
 - [ ] Establecer las fases de ejecucion para la logica de programacion, puede ser un diagrama de flujo.
