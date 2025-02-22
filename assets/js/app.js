@@ -1,6 +1,8 @@
 let nombres = [];
 let totalAmigos = 0;
 
+// resetea el juego
+
 function limpiarJuego() {
     // limpia la lista de amigos
     listaAmigos.innerHTML = "";
