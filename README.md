@@ -43,8 +43,9 @@ mostrará en la página.
       - [ok] Agregar un archivo app.js, que contendra la logica de programacion
     - [ok] CSS contendra las hojas de estilos necesarias, con nombre: css
       - [ok] Agregar dos archivos css, uno sera style.css y el otro sera el reset.css
-- [ ] Diseñar la interfase grafica del desafio, en figma
-- [ ] Maquetar el html de acuerdo al diseño en figma.
-  - [ ] Nombrar las clases y Ids con la metodologia BEM en el html, para los estilos y los llamados de la logica de
+      - [ok] style.css contiene los estilos de la aplicacion
+      - [ok] reset.css contiene los estilos base y limpios antes de inciar la carga del index.html
+- [ok] Maquetar el html de acuerdo al diseño sugerido.
+  - [ok] Nombrar las clases y Ids con la metodologia BEM en el html, para los estilos y los llamados de la logica de
         programacion en js.
 - [ ] Establecer las fases de ejecucion para la logica de programacion, puede ser un diagrama de flujo.
