@@ -6,7 +6,11 @@ con JavaScript.
 
 - El trello del desarrollo del poryecto y cada una de sus fases
 
-[trello]([https://](https://trello.com/b/A61aGBYJ/trello-challenge-amigo-secreto-esp))
+  [trello]([https://](https://trello.com/b/A61aGBYJ/trello-challenge-amigo-secreto-esp))
+
+-proyecto desplegado en github pages
+
+  [text](https://ojsilvera.github.io/AlluraG8_2025_Challenge_AmigoSecreto/)
 
 - Descripcion mas detallada del challenge o proyecto, entregados por alura
 
