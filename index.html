@@ -25,14 +25,24 @@
                 <button class="button-add" onclick="agregarAmigo()">Añadir</button>
             </div>
 
-            <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
+            <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list">
+                <!-- crear dinamicamente la lista de amigos-->
+            </ul>
 
-            <ul id="resultado" class="result-list" aria-live="polite"></ul>
+            <!--  <ul id="resultado" class="result-list" aria-live="polite"></ul> -->
+
+            <p class="section-title" id="amigoSecreto">
+                <!-- mostrar el amigo secreto -->
+            </p>
 
             <div class="button-container">
                 <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
                     <img src="./assets/img/play_circle_outline.png" alt="Ícono para sortear">
                     Sortear amigo
+                </button>
+                <button class="button-draw" onclick="limpiarJuego()" aria-label="Sortear amigo secreto">
+                    <img src="./assets/img/play_circle_outline.png" alt="Ícono para sortear">
+                    Nuevo sorteo
                 </button>
             </div>
         </section>

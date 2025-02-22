@@ -48,6 +48,15 @@ mostrará en la página.
 - [ok] Maquetar el html de acuerdo al diseño sugerido.
   - [ok] Nombrar las clases y Ids con la metodologia BEM en el html, para los estilos y los llamados de la logica de
         programacion en js.
-- [ ] Establecer las fases de ejecucion para la logica de programacion
-  - [ ] Crear una funcion que capture los nombre dijitados en la caja de texto con ID: amigos
-  - [ ]
+- [ok] Ingresar y listar los amigos disponibles ppara el sorteo
+  - [OK] Crear una funcion que capture los nombre digitados en la caja de texto con ID: amigos
+  - [ok] Mostrar dinamicamente el nombre de cada amigo conforme se introduce con un elementi li, dentro del elemento ul
+         con ID: listaAmigos
+  - [ok] Al digitar y mostrar el nuevo amigo, limpiar la caja de texto, asi preparamos el nuevo ingreso
+  - [ok] Validar que el campo de ingreso de nombre no se mande vacio.
+- [ok] Mostrar el amigo elejido para ser el amigo secreto, en el parrafo con ID: amigoSecreto.
+- [ok] Adicionar boton para realizar nuevo sorteo
+  - [ok] debe limpiar los campos de caja de texto con ID: amigos
+  - [ok] limpiar ls lista ul con ID: listaAmigos
+  - [ok] debe limpiar el campo p que muestra tanto el nombre dle amigo secreto como el mensaje de error con ID: amigoSecreto
+  - [ok] limpiar las variabels utilizadas, nombres = []; totalAmigos = 0;
