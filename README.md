@@ -8,7 +8,7 @@ con JavaScript.
 
   [trello del proyecto](https://trello.com/b/A61aGBYJ/trello-challenge-amigo-secreto-esp)
 
--proyecto desplegado en github pages
+- Proyecto desplegado en github pages
 
   [Despliegue](https://ojsilvera.github.io/AlluraG8_2025_Challenge_AmigoSecreto/)
 
