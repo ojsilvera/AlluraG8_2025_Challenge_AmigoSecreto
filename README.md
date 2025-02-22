@@ -48,4 +48,6 @@ mostrará en la página.
 - [ok] Maquetar el html de acuerdo al diseño sugerido.
   - [ok] Nombrar las clases y Ids con la metodologia BEM en el html, para los estilos y los llamados de la logica de
         programacion en js.
-- [ ] Establecer las fases de ejecucion para la logica de programacion, puede ser un diagrama de flujo.
+- [ ] Establecer las fases de ejecucion para la logica de programacion
+  - [ ] Crear una funcion que capture los nombre dijitados en la caja de texto con ID: amigos
+  - [ ]
